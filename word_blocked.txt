@@ -1,3 +1,6 @@
 http://
 https://
 t.me
+.com
+.net
+.core
