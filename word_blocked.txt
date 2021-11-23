@@ -3,4 +3,4 @@ https://
 t.me
 .com
 .net
-.core
+.html
